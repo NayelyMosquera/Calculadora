@@ -9,8 +9,7 @@
 🧮 &nbsp;Una calculadora web completamente funcional desarrollada con HTML, CSS y JavaScript.\
 ⚡ &nbsp;Interfaz moderna y responsiva con animaciones suaves.\
 🎯 &nbsp;Operaciones básicas: suma, resta, multiplicación y división.\
-🎨 &nbsp;Diseño minimalista y fácil de usar.\
-📱 &nbsp;Compatible con dispositivos móviles y de escritorio.
+🎨 &nbsp;Diseño minimalista y fácil de usar.
 
 ---
 
@@ -20,7 +19,6 @@
 - ✅ Interfaz responsive
 - ✅ Diseño moderno con CSS Grid
 - ✅ Validación de entrada de datos
-- ✅ Historial de operaciones
 - ✅ Teclado numérico interactivo
 
 ---
@@ -57,7 +55,7 @@ calculadora-web/
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/calculadora-web.git
+   git clone https://github.com/NayelyMosquera/Calculadora.git
    ```
 
 2. **Navega al directorio**
@@ -84,33 +82,16 @@ calculadora-web/
 
 ---
 
-## 🎯 &nbsp;Próximas Mejoras
-
-- [ ] Operaciones científicas avanzadas
-- [ ] Modo oscuro/claro
-- [ ] Historial persistente
-- [ ] Soporte para operaciones complejas
-- [ ] Themes personalizables
-
----
-
 ## 📞 &nbsp;Contacto
 
 📧 **Email:** nmosquera1039@utm.edu.ec 
 🐱 **GitHub:** [@Nayelymosquera](https://github.com/NayelyMosquera)  
-
 
 ---
 
 <div align="center">
   <h3>⭐ Si te gusta este proyecto, ¡dale una estrella! ⭐</h3>
 </div>
-
----
-
-## 📄 &nbsp;Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
